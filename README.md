@@ -29,7 +29,7 @@ You should not let people know your  LINE_TOKEN,LINE_SECRET,LINE_UID
     * > ngrok http 1234
 * **Step 4: Webhook settings (you should setting everytime when you run ngrok)**
 
-![image](https://user-images.githubusercontent.com/43459716/185759274-36b2ed2e-cefa-45d7-be0d-9d7d3efa8c5a.png
+![未命名](https://user-images.githubusercontent.com/43459716/185759616-ece8b044-ebcf-4389-8dfd-bcd84141f2b5.png)
 
 * **Step 5: Run `accounting_bot.py`**
     * The port used in main.py is '1234'
